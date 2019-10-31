@@ -51,7 +51,7 @@ Various distros have their own favourite ways to make pip/venv accessible
 on the command line. This often tripped me up when trying to figure out
 whether I was installing dependancies in the python2 or python3 environments.
 
-(This red hat article)[https://developers.redhat.com/blog/2019/05/07/what-no-python-in-red-hat-enterprise-linux-8/]
+[This red hat article](https://developers.redhat.com/blog/2019/05/07/what-no-python-in-red-hat-enterprise-linux-8/)
 sums up nicely how this generally makes everyones life just a little bit
 more interesting (read: difficult).
 
